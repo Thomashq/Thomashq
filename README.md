@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Thomashq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me thomashenrique@alu.ufc.br
+- 👋 Oi, sou @Thomashq
+- 👀 Sou interessado em automação e desenvolvimento web
+- 🌱 Atualmente to focado em aprender machine learning
+- 💞️ Procurando por oportunidades de contribuir em projetos
+- 📫 Meu contato principal é thomnashenriqq@gmail.comn
 
 <!---
 Thomashq/Thomashq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
